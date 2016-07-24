@@ -12,3 +12,12 @@ D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Debug\SD.pdb
 D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\SD.exe
 D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\SD.pdb
 D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\PowerOff.csprojResolveAssemblyReference.cache
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Debug\SD.exe.config
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\PowerOff.csproj.ResolveComReference.cache
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\SD.exe
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\SD.pdb
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Debug\SD.exe
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Debug\SD.pdb
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\PowerOff.csprojResolveAssemblyReference.cache
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\PowerOff.Properties.Resources.resources
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Debug\PowerOff.csproj.GenerateResource.Cache

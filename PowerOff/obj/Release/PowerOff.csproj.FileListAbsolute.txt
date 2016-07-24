@@ -12,3 +12,12 @@ K:\VS\PowerOff\PowerOff\bin\Release\SD.exe.config
 K:\VS\PowerOff\PowerOff\obj\Release\PowerOff.csproj.ResolveComReference.cache
 K:\VS\PowerOff\PowerOff\obj\Release\SD.exe
 K:\VS\PowerOff\PowerOff\obj\Release\SD.pdb
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Release\SD.exe.config
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\PowerOff.csproj.ResolveComReference.cache
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\SD.exe
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\SD.pdb
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Release\SD.exe
+K:\VS\PowerOff\PowerOff.git\PowerOff\bin\Release\SD.pdb
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\PowerOff.csprojResolveAssemblyReference.cache
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\PowerOff.Properties.Resources.resources
+K:\VS\PowerOff\PowerOff.git\PowerOff\obj\Release\PowerOff.csproj.GenerateResource.Cache

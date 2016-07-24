@@ -1,0 +1,14 @@
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\bin\Debug\PowerOff.exe.config
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\bin\Debug\PowerOff.exe
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\bin\Debug\PowerOff.pdb
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\obj\Debug\PowerOff.csprojResolveAssemblyReference.cache
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\obj\Debug\PowerOff.exe
+C:\Users\Cr0Nos\AppData\Local\Temporary Projects\PowerOff\obj\Debug\PowerOff.pdb
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Debug\SD.exe.config
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\PowerOff.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Debug\SD.exe
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Debug\SD.pdb
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\SD.exe
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\SD.pdb
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Debug\PowerOff.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\PowerOff.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Release\SD.exe.config
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Release\SD.exe
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\bin\Release\SD.pdb
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\SD.exe
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\SD.pdb
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\PowerOff.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\PowerOff.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\PowerOff\PowerOff\obj\Release\PowerOff.csproj.GenerateResource.Cache
+K:\VS\PowerOff\PowerOff\bin\Release\SD.exe.config
+K:\VS\PowerOff\PowerOff\obj\Release\PowerOff.csproj.ResolveComReference.cache
+K:\VS\PowerOff\PowerOff\obj\Release\SD.exe
+K:\VS\PowerOff\PowerOff\obj\Release\SD.pdb
